@@ -39,3 +39,5 @@ Elon Musk stands as a freakish anomaly in both the business and sociological rea
 [Tycoon Prompt](https://chatgpt.com/g/g-68384a2cf1088191bc7fb808f3b25e91-tycoon-prompt)
 <br>
 [Business](https://github.com/sourceduty/Business)
+<br>
+[Agentic Automation](https://github.com/sourceduty/Agentic_Automation)
